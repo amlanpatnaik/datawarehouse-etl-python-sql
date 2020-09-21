@@ -47,7 +47,9 @@ And below is an example of what a single song file, TRAABJL12903CDCF1A.json, loo
 ### Log Dataset
 
 The second dataset consists of log files in JSON format based on the songs in the dataset above. These are app activity logs from an imaginary music streaming app based on configuration settings.
+
 The log files in the dataset are partitioned by year and month. For example, here are filepaths to two files in this dataset.
+
 log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 
